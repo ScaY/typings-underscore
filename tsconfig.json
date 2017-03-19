@@ -6,7 +6,6 @@
     "noEmit": true
   },
   "files": [
-    "test.ts",
     "main.d.ts"
   ]
 }
