@@ -1,0 +1,7 @@
+{
+  "name": "typings-underscore",
+  "version": "1.0.0",
+  "main": "main.d.ts",
+  "homepage": "https://github.com/ScaY/typings-underscore#readme",
+  "global": true
+}

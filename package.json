@@ -1,0 +1,23 @@
+{
+    "name": "typings-underscore",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ScaY/typings-underscore.git"
+    },
+    "scripts": {
+        "build": "typings bundle --global -o out/main.d.ts",
+        "test": "tsc"
+    },
+    "devDependencies": {
+        "typings": "^1.0.4",
+        "typescript": "^2.2.1"
+    },
+    "author": "ScaY",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ScaY/typings-underscore/issues"
+    },
+    "homepage": "https://github.com/ScaY/typings-underscore#readme"
+}
